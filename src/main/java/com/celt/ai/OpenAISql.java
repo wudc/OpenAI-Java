@@ -20,9 +20,6 @@ public class OpenAISql {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-
-		// getData
-		Data data = new Data();
 		
 		//power chatGPT
 		System.out.println("Start using Power ChatGPT!!!!!!!!!!!!!!!!!!");
